@@ -1,0 +1,32 @@
+{
+  "name": "testwork_cleveroad",
+  "version": "0.0.1",
+  "description": "test working, cleveroad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevheniimoskalenko/testwork_cleveroad.git"
+  },
+  "keywords": [
+    "mysql",
+    "node.js",
+    "express"
+  ],
+  "author": "yevhenii moskalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevheniimoskalenko/testwork_cleveroad/issues"
+  },
+  "homepage": "https://github.com/yevheniimoskalenko/testwork_cleveroad#readme",
+  "devDependencies": {
+    "eslint": "^6.2.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
