@@ -26,19 +26,12 @@
     "prettier": "1.18.2"
   },
   "dependencies": {
-    "axios": "^0.19.0",
     "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
     "email-validator": "^2.0.4",
     "express": "^4.17.1",
-    "express-busboy": "^7.0.1",
     "express-fileupload": "^1.1.5",
-    "express-formidable": "^1.2.0",
-    "formidable": "^1.2.1",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "multer": "^1.4.2",
-    "multiparty-express": "^0.1.9",
     "mysql": "^2.17.1",
     "timestamp": "0.0.1"
   }

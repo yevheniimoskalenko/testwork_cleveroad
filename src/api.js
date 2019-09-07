@@ -1,10 +1,8 @@
 const express = require('express');
-const axios = require('axios');
 const router = express.Router();
 const mysql = require('mysql');
 const jwt = require('jsonwebtoken');
 const validator = require("email-validator");
-const timestamp = require('timestamp');
 const _ = require('lodash');
 
 const {
