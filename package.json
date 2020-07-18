@@ -30,7 +30,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.1.5",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mysql": "^2.17.1",
     "timestamp": "0.0.1"
   }
